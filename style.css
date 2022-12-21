@@ -1,0 +1,44 @@
+.fa-map-marker-alt{
+    padding: 2px 5px;
+}
+.wrap{
+    background-image: url(./new_pics/bg-image.jpg);
+    width: 100%;
+    height: 700px;
+    background-size: 1400px;
+    background-repeat: no-repeat;
+}
+.image2{
+    background-image: url(./new_pics/backg2.jpg);
+    width: 100%;
+    height: 700px;
+    background-size: 1400px;
+    background-repeat: no-repeat;
+}
+.image3{
+    background-image: url(./new_pics/form_bg2.jpg);
+    width: 100%;
+    height: 700px;
+    background-size: 1400px;
+    background-repeat: no-repeat;
+}
+.transparent{
+    background-color: transparent !important;
+    border-radius: 10px;
+}
+.fa-square-facebook,
+.fa-instagram,
+.fa-facebook{
+    margin: 3px;
+    font-size: 20px;
+}
+.fa-map-marker-alt{
+    padding: 2px 5px;
+}
+.fa-circle{
+    font-size: 12px;
+    margin-right: 3px;
+}
+.fa-calendar{
+    margin-left:190px;
+}
